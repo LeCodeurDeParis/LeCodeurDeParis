@@ -23,13 +23,13 @@ Salut ! Je suis **Paul Boisaubert**, connu aussi sous le pseudo de "**LeCodeurDe
 Certains de mes projets favoris:
 - **[PokemonFighter](#):** Une simulation d'un combat Pokémon utilsant la POO PHP
 - **[Netflim](#):** Reproduction de la Home Page Netflix en React.JS et TailwindCSS
-- **[MinePallet](#):** Projet proposant à l'utilisateur des palletes de 5 blocs du jeu "Minecraft" fait en HTML, CSS et JavaScript
+- **[MinePallet](#):** Projet proposant à l'utilisateur des pallettes de 5 blocs du jeu "Minecraft" fait en HTML, CSS et JavaScript
 
 ---
 
 ## 📫 Comment me contacter ?
 - ✉️ **Email:** [pl.baillion@gmail.com](mailto:pl.baillion@gmail.com)
-- 💼 **LinkedIn:** [Paul Boisaubert](#)
+- 💼 **LinkedIn:** [Paul Boisaubert](https://linkedin.com/in/paul-boisaubert-baillion-a03791291)
 
 ---
 
