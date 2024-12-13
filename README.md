@@ -7,13 +7,12 @@ Salut ! Je suis **Paul Boisaubert**, connu aussi sous le pseudo de "**LeCodeurDe
 ## 🚀 À propos de moi
 - 🌟 **Intérêt:** Développement Web, software engineering, découvrir de nouvelles technologies. J'aime aussi jouer aux jeux-vidéo et faire du piano durant mon temps libre.
 - 💻 **Parcours d'aprentissage:** 
-  - Programming languages: **HTML**, **CSS**, **JavaScript**, **PHP**
-  - Frameworks & Tools:  **React.JS**, **TailwindCSS**, **Symfony**
+  - Je suis à l'Institut de l'Internet et du Multimédia en 2ème année, spécialité développeur Web. Durant ma première année, j'ai déccouvert les différents axes que propose l'école tel que la 3D, le game programming, la communication et le marketing.
 
 ---
 
 ## 🔨 Compétences et outils:
-- **Langages:**   HTML, CSS, JavaScript, PHP, React.JS, TailwindCSS, Symfony
+- **Langages / Librairies / Framework:**   HTML, CSS, JavaScript, PHP, React.JS, TailwindCSS, Symfony
 - **Version Control:** Git
 - **IDE & Outils:** Visual Studio Code, 
 
