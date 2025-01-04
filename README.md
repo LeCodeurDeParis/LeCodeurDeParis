@@ -33,7 +33,6 @@ Certains de mes projets favoris:
 ---
 
 ### 📈 GitHub Stats
-![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeCodeurDeParis&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeCodeurDeParis&layout=compact&theme=radical)
 
 ---
