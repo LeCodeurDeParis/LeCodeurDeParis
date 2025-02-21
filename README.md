@@ -12,7 +12,7 @@ Salut ! Je suis **Paul Boisaubert**, connu aussi sous le pseudo de "**LeCodeurDe
 ---
 
 ## 🔨 Compétences et outils:
-- **Langages / Librairies / Framework:**   HTML, CSS, JavaScript, PHP, React.JS, TailwindCSS, Symfony
+- **Langages / Librairies / Framework:**   HTML, CSS, JavaScript, PHP, React.JS, TailwindCSS, Next.JS, Symfony
 - **Version Control:** Git
 - **IDE & Outils:** Visual Studio Code, Laragon, Figma
 
