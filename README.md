@@ -21,8 +21,8 @@ Salut ! Je suis **Paul Boisaubert**, connu aussi sous le pseudo de "**LeCodeurDe
 ## 🌟 Projets
 Certains de mes projets favoris:
 - **[PokemonFighter](#):** Une simulation d'un combat Pokémon utilsant la POO PHP
-- **[Netflim](#):** Reproduction de la Home Page Netflix en React.JS et TailwindCSS
-- **[MinePallet](#):** Projet proposant à l'utilisateur des pallettes de 5 blocs du jeu "Minecraft" fait en HTML, CSS et JavaScript
+- **[Netflux](#):** Reproduction de la Home Page Netflix en React.JS et TailwindCSS
+- **[Palcraft](#):** Projet proposant à l'utilisateur des pallettes de 5 blocs du jeu "Minecraft" fait en HTML, CSS et JavaScript
 
 ---
 
