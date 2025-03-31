@@ -12,7 +12,7 @@ Salut ! Je suis **Paul Boisaubert**, connu aussi sous le pseudo de "**LeCodeurDe
 ---
 
 ## 🔨 Compétences et outils:
-- **Langages / Librairies / Framework:**   HTML, CSS, JavaScript, PHP, React.JS, TailwindCSS, Next.JS, Symfony
+- **Langages / Librairies / Framework:**   HTML, CSS, JavaScript, PHP, React.JS, TailwindCSS, Next.JS, Symfony, Python
 - **Version Control:** Git
 - **IDE & Outils:** Visual Studio Code, Laragon, Figma
 
@@ -20,9 +20,9 @@ Salut ! Je suis **Paul Boisaubert**, connu aussi sous le pseudo de "**LeCodeurDe
 
 ## 🌟 Projets
 Certains de mes projets favoris:
-- **[PokemonFighter](#):** Une simulation d'un combat Pokémon utilsant la POO PHP
-- **[Netflux](#):** Reproduction de la Home Page Netflix en React.JS et TailwindCSS
-- **[Palcraft](#):** Projet proposant à l'utilisateur des pallettes de 5 blocs du jeu "Minecraft" fait en HTML, CSS et JavaScript
+- **[PokemonFighter](https://github.com/LeCodeurDeParis/Projet-Pokemon-PHP):** Une simulation d'un combat Pokémon utilsant la POO PHP
+- **[Netflux](https://github.com/LeCodeurDeParis/Netflix404):** Reproduction de la Home Page Netflix en React.JS et TailwindCSS
+- **[Palcraft](https://github.com/LeCodeurDeParis/MinecraftPallet):** Projet proposant à l'utilisateur des pallettes de 5 blocs du jeu "Minecraft" fait en HTML, CSS et JavaScript
 
 ---
 
