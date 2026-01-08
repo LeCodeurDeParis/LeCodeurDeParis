@@ -1,6 +1,6 @@
 # 👨‍💻 Bienvenue sur mon profil GitHub!
 
-Salut ! Je suis **Paul Boisaubert**, connu aussi sous le pseudo de "**LeCodeurDeParis**", un élève en deuxième année de développement web. Je suis toujours curieux et impatient de découvrir de nouvelles technologie.
+Salut ! Je suis **Paul Boisaubert**, connu aussi sous le pseudo de "**LeCodeurDeParis**", un élève en troisième année de développement web. Je suis toujours curieux et impatient de découvrir de nouvelles technologie.
 
 ---
 
